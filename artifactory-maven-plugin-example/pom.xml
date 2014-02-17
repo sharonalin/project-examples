@@ -26,7 +26,14 @@
 </dependency>
 
     </dependencies>
-
+ <licenses>
+        <license>
+            <name>CDDL + GPLv2 with classpath exception</name>
+            <url>https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
     <build>
         <pluginManagement>
             <plugins>
